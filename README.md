@@ -46,7 +46,7 @@
   
   ## 🤔 Stats
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
-  <img src="https://github-readme-stats.vercel.app/api?username=nuj1min&theme=radical" alt="Minjun's GitHub stats" />
+  [![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuj1min&theme=radical)](https://github.com/nuj1min/github-readme-stats)
   <br/>
   
 </div>
