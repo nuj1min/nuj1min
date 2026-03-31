@@ -42,5 +42,4 @@
 
 ## 🤔 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
-[![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuj1min&theme=radical)](https://github.com/nuj1min)
-<br/>
+[![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuj1min&theme=radical&show_icons=true)](https://github.com/nuj1min)<br/>
