@@ -44,6 +44,19 @@
 <br/>
 <br/>
 
+## 🏃 Activities & Experience
+* **GDG (Google Developer Groups)** | 7th Gen Member (2025.09 - Present)
+* **UMC (University MakeUs Challenge)** | 10th Gen Member (2026.03 - Present)
+* **교내 보안 동아리 및 학술 소모임** | 정회원 활동 중
+
+<br/>
+
+## 📜 Certifications
+* **Network Administrator Level 2** (네트워크관리사 2급)
+* **Linux Master Level 2** (리눅스마스터 2급)
+
+<br/>
+
 ## 🤔 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
 [![Minjun's GitHub stats](https://github-readme-stats-taupe-seven-62.vercel.app/api?username=nuj1min&theme=radical)](https://github.com/nuj1min)
