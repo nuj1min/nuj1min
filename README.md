@@ -18,25 +18,17 @@
 <br/>
   
 ## 👉 Contact
-<img src="https://img.shields.io/badge/Naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-%23FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-%23FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" />
 <br/>
 <br/>
 
 ## 🧱 Tech Stack
-<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
 <br/>
 <br/>
 
 ## 💻 Tool
-<img src="https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Intellij-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img src="https://img.shields.io/badge/Intellij-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" /><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 <br/>
 <br/>
 
