@@ -8,13 +8,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&pause=1500&color=F3E5AB&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+Github&speed=70&deleteSpeed=70" alt="Typing SVG" />
   </a>
-  <br/>
-  <a href="https://github.com/nuj1min">
-    <img src="https://komarev.com/ghpvc/?username=nuj1min&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
 </div>
 
-## 👀 About Me
+## 👀 About Me <img src="https://komarev.com/ghpvc/?username=nuj1min&label=Views&color=0e75b6&style=flat" height="20" alt="Profile Views" />
 ####  📌이름: 김민준
 ####  📌소속: 한국외국어대학교 글로벌캠퍼스 컴퓨터공학부
 ####  📌한줄 소개: 안녕하세욥
@@ -63,11 +59,12 @@
 <br/>
 
 ## 🤔 Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
-
 <div align="center">
+  <a href="https://solved.ac/minjun0306">
+    <img height="165" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306" alt="Solved.ac Profile" />
+  </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nuj1min&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img height="165" src="https://streak-stats.demolab.com?user=nuj1min&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
