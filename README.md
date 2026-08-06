@@ -47,7 +47,7 @@
 
 ## 🏃 Activities & Experience
 * **GDG (Google Developer Groups)** | 7th Gen Member (2025.09 - Present)
-* **UMC (University MakeUs Challenge)** | 10th Gen Member (2026.03 - Present)
+* **UMC (University MakeUs Challenge)** | 10th Gen Member (2026.03 - 2026.08) · 11th Gen 운영진 (2026.09 - 예정)
 * **교내 보안 동아리 및 학술 소모임** | 정회원 활동 중
 
 <br/>
