@@ -8,6 +8,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Knewave&size=30&pause=1500&color=F3E5AB&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+Github&speed=70&deleteSpeed=70" alt="Typing SVG" />
   </a>
+  <br/>
+  <a href="https://github.com/nuj1min">
+    <img src="https://komarev.com/ghpvc/?username=nuj1min&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </div>
 
 ## 👀 About Me
@@ -19,7 +23,7 @@
 <br/>
   
 ## 👉 Contact
-<img src="https://img.shields.io/badge/Naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Instagram-%23FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://github.com/nuj1min"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/nuj1min/"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://nuj1min.github.io"><img src="https://img.shields.io/badge/Portfolio-181717.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <br/>
 <br/>
 
@@ -60,5 +64,14 @@
 
 ## 🤔 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjun0306)](https://solved.ac/minjun0306)
-[![Minjun's GitHub stats](https://github-readme-stats-taupe-seven-62.vercel.app/api?username=nuj1min&theme=radical)](https://github.com/nuj1min)
-</br>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nuj1min&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+## 🌱 3D Contribution Graph
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution Graph" />
+</div>
